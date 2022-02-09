@@ -25,6 +25,7 @@ java TestCreature
 6. To compile the ExecuteTestng.java program:
 ```
 javac <path to ExecuteTesting.java>
+```
 
 7. After the class has been compiled, run the program by executng the following command on the 445hw1/src/testing/
 ```
