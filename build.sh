@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd 445hw1
 cd src/main/
 
 javac TestCreature.java
