@@ -31,3 +31,5 @@ javac <path to ExecuteTesting.java>
 ```
 java ExecuteTesting
 ```
+
+* the 'build.sh' script will automatically complete steps 3-7
