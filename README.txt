@@ -3,33 +3,20 @@
 1. Installl java if not yet installed on your machine:
 
 ```
-sudo add-apt-repository ppa:webupd8team/java
 sudo apt-get update
-sudo apt-get install oracle-java8-installer
+sudo apt-get install openjdk-17-jdk
 ```
 
-2. Change directory into the source folder for the project
-
-3. To compile the TestCreature.java program:
+2. Change directory into the folder for the project
 ```
-javac <path to TestCreature.java>
+cd 445hw1
 ```
 
-4. After the class has been compiled, run the program by executng the following command on the 445hw1/src/main/
+3. Run Application
 ```
-java TestCreature
-```
-
-5. To run the unit testing, change directory to src/testing
-
-6. To compile the ExecuteTestng.java program:
-```
-javac <path to ExecuteTesting.java>
+gradle build
+java -jar build/libs/445hw1.jar
 ```
 
-7. After the class has been compiled, run the program by executng the following command on the 445hw1/src/testing/
-```
-java ExecuteTesting
-```
-
+3. 
 * the 'build.sh' script will automatically complete steps 3-7
