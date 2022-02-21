@@ -1,5 +1,5 @@
-package testing;
-import main.Thing;
+package test.java;
+import main.java.Thing;
 
 public class ThingTest {
 	private final static String t_name;

@@ -1,4 +1,4 @@
-package main;
+package main.java;
 
 public class Bat extends Creature implements Flyer{
 	private final String moveString;

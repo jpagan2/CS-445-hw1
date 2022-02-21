@@ -1,7 +1,7 @@
-package testing;
+package test.java;
 
-import main.Fly;
-import main.Thing;
+import main.java.Fly;
+import main.java.Thing;
 
 public class FlyTest {
 	// String fixtures		

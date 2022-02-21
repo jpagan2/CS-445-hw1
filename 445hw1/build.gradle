@@ -1,0 +1,10 @@
+plugins{
+    id 'java-library'
+}
+
+jar{
+    manifest{
+        attributes 'Main-Class' : 'main.java.TestCreature'
+    }
+
+}

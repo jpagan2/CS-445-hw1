@@ -1,10 +1,10 @@
-package testing;
+package test.java;
 
-import main.Ant;
-import main.Bat;
-import main.Fly;
-import main.Thing;
-import main.Tiger;
+import main.java.Ant;
+import main.java.Bat;
+import main.java.Fly;
+import main.java.Thing;
+import main.java.Tiger;
 
 public class BatTest {
 	// String fixtures

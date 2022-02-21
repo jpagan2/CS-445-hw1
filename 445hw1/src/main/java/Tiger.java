@@ -1,4 +1,4 @@
-package main;
+package main.java;
 
 public class Tiger extends Creature{
 	private final String moveString;

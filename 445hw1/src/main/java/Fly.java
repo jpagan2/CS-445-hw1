@@ -1,4 +1,4 @@
-package main;
+package main.java;
 
 public class Fly extends Creature implements Flyer{
 	private final String moveString;

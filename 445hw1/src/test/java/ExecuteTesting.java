@@ -1,4 +1,4 @@
-package testing;
+package test.java;
 
 public class ExecuteTesting {
 
