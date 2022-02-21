@@ -18,5 +18,4 @@ gradle build
 java -jar build/libs/445hw1.jar
 ```
 
-3. 
-* the 'build.sh' script will automatically complete steps 3-7
+4. The 'build.sh' script will automatically complete steps 1-3
