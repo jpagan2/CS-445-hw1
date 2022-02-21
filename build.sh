@@ -1,12 +1,8 @@
 #!/bin/bash
 
 cd 445hw1/
-cd src/main/
+sudo apt-get update
+sudo apt-get install openjdk-17-jdk
 
-javac TestCreature.java
-
-cd ..
-cd ..
-cd src/testing
-
-javac ExecuteTesting.java
+gradle build
+java -jar build/libs/445hw1.jar
